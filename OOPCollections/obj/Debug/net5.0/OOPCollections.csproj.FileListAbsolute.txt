@@ -1,0 +1,16 @@
+C:\Users\terla\source\repos\OOPCollections\OOPCollections\bin\Debug\net5.0\OOPCollections.exe
+C:\Users\terla\source\repos\OOPCollections\OOPCollections\bin\Debug\net5.0\OOPCollections.deps.json
+C:\Users\terla\source\repos\OOPCollections\OOPCollections\bin\Debug\net5.0\OOPCollections.runtimeconfig.json
+C:\Users\terla\source\repos\OOPCollections\OOPCollections\bin\Debug\net5.0\OOPCollections.runtimeconfig.dev.json
+C:\Users\terla\source\repos\OOPCollections\OOPCollections\bin\Debug\net5.0\OOPCollections.dll
+C:\Users\terla\source\repos\OOPCollections\OOPCollections\bin\Debug\net5.0\ref\OOPCollections.dll
+C:\Users\terla\source\repos\OOPCollections\OOPCollections\bin\Debug\net5.0\OOPCollections.pdb
+C:\Users\terla\source\repos\OOPCollections\OOPCollections\obj\Debug\net5.0\OOPCollections.csproj.AssemblyReference.cache
+C:\Users\terla\source\repos\OOPCollections\OOPCollections\obj\Debug\net5.0\OOPCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terla\source\repos\OOPCollections\OOPCollections\obj\Debug\net5.0\OOPCollections.AssemblyInfoInputs.cache
+C:\Users\terla\source\repos\OOPCollections\OOPCollections\obj\Debug\net5.0\OOPCollections.AssemblyInfo.cs
+C:\Users\terla\source\repos\OOPCollections\OOPCollections\obj\Debug\net5.0\OOPCollections.csproj.CoreCompileInputs.cache
+C:\Users\terla\source\repos\OOPCollections\OOPCollections\obj\Debug\net5.0\OOPCollections.dll
+C:\Users\terla\source\repos\OOPCollections\OOPCollections\obj\Debug\net5.0\ref\OOPCollections.dll
+C:\Users\terla\source\repos\OOPCollections\OOPCollections\obj\Debug\net5.0\OOPCollections.pdb
+C:\Users\terla\source\repos\OOPCollections\OOPCollections\obj\Debug\net5.0\OOPCollections.genruntimeconfig.cache
